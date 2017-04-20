@@ -1,60 +1,60 @@
 <svg height="910" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="910" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 00:18:20 +0000    33583 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 00:18:20 +0000      684 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 00:18:20 +0000     1053 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 00:18:20 +0000     5607 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 00:18:20 +0000     3546 bytes  grunt-0.3-README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 00:18:20 +0000      117 bytes  grunt-hashres.sublime-project</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 00:18:20 +0000        2 bytes  grunt-hashres.sublime-workspace</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 00:18:20 +0000     2476 bytes  package.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 00:18:20 +0000      962 bytes  tasks/hashres.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 00:18:20 +0000     3148 bytes  tasks/hashresHelper.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 00:18:20 +0000     2164 bytes  tasks/hashresUtils.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 00:18:20 +0000       82 bytes  test/fixtures/knownMd5.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 00:18:20 +0000     1033 bytes  test/fixtures/options/Gruntfile.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 00:18:20 +0000      145 bytes  test/fixtures/options/with-custom-options/index.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 00:19:22 +0000    33583 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 00:19:22 +0000      684 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 00:19:22 +0000     1053 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 00:19:22 +0000     5607 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 00:19:22 +0000     3546 bytes  grunt-0.3-README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 00:19:22 +0000      117 bytes  grunt-hashres.sublime-project</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 00:19:22 +0000        2 bytes  grunt-hashres.sublime-workspace</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 00:19:22 +0000     2476 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 00:19:22 +0000      962 bytes  tasks/hashres.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 00:19:22 +0000     3148 bytes  tasks/hashresHelper.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 00:19:22 +0000     2164 bytes  tasks/hashresUtils.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 00:19:22 +0000       82 bytes  test/fixtures/knownMd5.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 00:19:22 +0000     1033 bytes  test/fixtures/options/Gruntfile.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 00:19:22 +0000      145 bytes  test/fixtures/options/with-custom-options/index.\</tspan>
 <tspan x="10" y="250">html</tspan>
-<tspan x="10" y="266"> 14.  2017-04-20 00:18:20 +0000       35 bytes  test/fixtures/options/with-custom-options/myscri\</tspan>
+<tspan x="10" y="266"> 14.  2017-04-20 00:19:22 +0000       35 bytes  test/fixtures/options/with-custom-options/myscri\</tspan>
 <tspan x="10" y="282">pts.js</tspan>
-<tspan x="10" y="298"> 15.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/options/with-custom-options/mystyl\</tspan>
+<tspan x="10" y="298"> 15.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/options/with-custom-options/mystyl\</tspan>
 <tspan x="10" y="314">es.css</tspan>
-<tspan x="10" y="330"> 16.  2017-04-20 00:18:20 +0000      160 bytes  test/fixtures/options/with-default-options/index\</tspan>
+<tspan x="10" y="330"> 16.  2017-04-20 00:19:22 +0000      160 bytes  test/fixtures/options/with-default-options/index\</tspan>
 <tspan x="10" y="346">.html</tspan>
-<tspan x="10" y="362"> 17.  2017-04-20 00:18:20 +0000      160 bytes  test/fixtures/options/with-default-options/index\</tspan>
+<tspan x="10" y="362"> 17.  2017-04-20 00:19:22 +0000      160 bytes  test/fixtures/options/with-default-options/index\</tspan>
 <tspan x="10" y="378">2.html</tspan>
-<tspan x="10" y="394"> 18.  2017-04-20 00:18:20 +0000       35 bytes  test/fixtures/options/with-default-options/scrip\</tspan>
+<tspan x="10" y="394"> 18.  2017-04-20 00:19:22 +0000       35 bytes  test/fixtures/options/with-default-options/scrip\</tspan>
 <tspan x="10" y="410">ts/myscripts.js</tspan>
-<tspan x="10" y="426"> 19.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/options/with-default-options/style\</tspan>
+<tspan x="10" y="426"> 19.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/options/with-default-options/style\</tspan>
 <tspan x="10" y="442">s/mystyles.css</tspan>
-<tspan x="10" y="458"> 20.  2017-04-20 00:18:20 +0000      149 bytes  test/fixtures/options/with-special-characters/in\</tspan>
+<tspan x="10" y="458"> 20.  2017-04-20 00:19:22 +0000      149 bytes  test/fixtures/options/with-special-characters/in\</tspan>
 <tspan x="10" y="474">dex.html</tspan>
 <tspan x="10" y="490">ls: cannot access test/fixtures/options/with-special-characters/scripts/+3.js: No such file or d\</tspan>
 <tspan x="10" y="506">irectory</tspan>
-<tspan x="10" y="522"> 21.  2017-04-20 00:18:20 +0000      149 bytes  test/fixtures/options/with-special-characters/sc\</tspan>
+<tspan x="10" y="522"> 21.  2017-04-20 00:19:22 +0000      149 bytes  test/fixtures/options/with-special-characters/sc\</tspan>
 <tspan x="10" y="538">ripts/+3$3.js</tspan>
-<tspan x="10" y="554"> 22.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/options/with-special-characters/st\</tspan>
+<tspan x="10" y="554"> 22.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/options/with-special-characters/st\</tspan>
 <tspan x="10" y="570">yles/+1.css</tspan>
-<tspan x="10" y="586"> 23.  2017-04-20 00:18:20 +0000      454 bytes  test/fixtures/overriding/Gruntfile.js</tspan>
-<tspan x="10" y="602"> 24.  2017-04-20 00:18:20 +0000       98 bytes  test/fixtures/overriding/index.html</tspan>
-<tspan x="10" y="618"> 25.  2017-04-20 00:18:20 +0000       32 bytes  test/fixtures/overriding/js-v1/script.js</tspan>
-<tspan x="10" y="634"> 26.  2017-04-20 00:18:20 +0000       32 bytes  test/fixtures/overriding/js-v2/script.js</tspan>
-<tspan x="10" y="650"> 27.  2017-04-20 00:18:20 +0000      375 bytes  test/fixtures/same-postfix/Gruntfile.js</tspan>
-<tspan x="10" y="666"> 28.  2017-04-20 00:18:20 +0000      279 bytes  test/fixtures/same-postfix/index.html</tspan>
-<tspan x="10" y="682"> 29.  2017-04-20 00:18:20 +0000       36 bytes  test/fixtures/same-postfix/scripts/bar.js</tspan>
-<tspan x="10" y="698"> 30.  2017-04-20 00:18:20 +0000       44 bytes  test/fixtures/same-postfix/scripts/foobar.js</tspan>
-<tspan x="10" y="714"> 31.  2017-04-20 00:18:20 +0000       17 bytes  test/fixtures/same-postfix/styles/foo-mobile.css</tspan>
-<tspan x="10" y="730"> 32.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/same-postfix/styles/mobile.css</tspan>
-<tspan x="10" y="746"> 33.  2017-04-20 00:18:20 +0000       89 bytes  test/fixtures/simple/index.html</tspan>
-<tspan x="10" y="762"> 34.  2017-04-20 00:18:20 +0000       35 bytes  test/fixtures/simple/myscripts.js</tspan>
-<tspan x="10" y="778"> 35.  2017-04-20 00:18:20 +0000      291 bytes  test/fixtures/subfolders/index.html</tspan>
-<tspan x="10" y="794"> 36.  2017-04-20 00:18:20 +0000       35 bytes  test/fixtures/subfolders/scripts/myscripts1.js</tspan>
-<tspan x="10" y="810"> 37.  2017-04-20 00:18:20 +0000       35 bytes  test/fixtures/subfolders/scripts/myscripts2.js</tspan>
-<tspan x="10" y="826"> 38.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/subfolders/styles/mystyles1.css</tspan>
-<tspan x="10" y="842"> 39.  2017-04-20 00:18:20 +0000        9 bytes  test/fixtures/subfolders/styles/mystyles2.css</tspan>
-<tspan x="10" y="858"> 40.  2017-04-20 00:18:20 +0000     5645 bytes  test/hashres.spec.js</tspan>
-<tspan x="10" y="874"> 41.  2017-04-20 00:18:20 +0000     2469 bytes  test/hashresHelper.spec.js</tspan>
-<tspan x="10" y="890"> 42.  2017-04-20 00:18:20 +0000     1856 bytes  test/hashresUtils.spec.js</tspan>
+<tspan x="10" y="586"> 23.  2017-04-20 00:19:22 +0000      454 bytes  test/fixtures/overriding/Gruntfile.js</tspan>
+<tspan x="10" y="602"> 24.  2017-04-20 00:19:22 +0000       98 bytes  test/fixtures/overriding/index.html</tspan>
+<tspan x="10" y="618"> 25.  2017-04-20 00:19:22 +0000       32 bytes  test/fixtures/overriding/js-v1/script.js</tspan>
+<tspan x="10" y="634"> 26.  2017-04-20 00:19:22 +0000       32 bytes  test/fixtures/overriding/js-v2/script.js</tspan>
+<tspan x="10" y="650"> 27.  2017-04-20 00:19:22 +0000      375 bytes  test/fixtures/same-postfix/Gruntfile.js</tspan>
+<tspan x="10" y="666"> 28.  2017-04-20 00:19:22 +0000      279 bytes  test/fixtures/same-postfix/index.html</tspan>
+<tspan x="10" y="682"> 29.  2017-04-20 00:19:22 +0000       36 bytes  test/fixtures/same-postfix/scripts/bar.js</tspan>
+<tspan x="10" y="698"> 30.  2017-04-20 00:19:22 +0000       44 bytes  test/fixtures/same-postfix/scripts/foobar.js</tspan>
+<tspan x="10" y="714"> 31.  2017-04-20 00:19:22 +0000       17 bytes  test/fixtures/same-postfix/styles/foo-mobile.css</tspan>
+<tspan x="10" y="730"> 32.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/same-postfix/styles/mobile.css</tspan>
+<tspan x="10" y="746"> 33.  2017-04-20 00:19:22 +0000       89 bytes  test/fixtures/simple/index.html</tspan>
+<tspan x="10" y="762"> 34.  2017-04-20 00:19:22 +0000       35 bytes  test/fixtures/simple/myscripts.js</tspan>
+<tspan x="10" y="778"> 35.  2017-04-20 00:19:22 +0000      291 bytes  test/fixtures/subfolders/index.html</tspan>
+<tspan x="10" y="794"> 36.  2017-04-20 00:19:22 +0000       35 bytes  test/fixtures/subfolders/scripts/myscripts1.js</tspan>
+<tspan x="10" y="810"> 37.  2017-04-20 00:19:22 +0000       35 bytes  test/fixtures/subfolders/scripts/myscripts2.js</tspan>
+<tspan x="10" y="826"> 38.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/subfolders/styles/mystyles1.css</tspan>
+<tspan x="10" y="842"> 39.  2017-04-20 00:19:22 +0000        9 bytes  test/fixtures/subfolders/styles/mystyles2.css</tspan>
+<tspan x="10" y="858"> 40.  2017-04-20 00:19:22 +0000     5645 bytes  test/hashres.spec.js</tspan>
+<tspan x="10" y="874"> 41.  2017-04-20 00:19:22 +0000     2469 bytes  test/hashresHelper.spec.js</tspan>
+<tspan x="10" y="890"> 42.  2017-04-20 00:19:22 +0000     1856 bytes  test/hashresUtils.spec.js</tspan>
 </text>
 </svg>
